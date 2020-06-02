@@ -1,5 +1,8 @@
 # Neo4j + docker + docker-compose + node.js example
 
+Article on how it is used and done:
+https://medium.com/@slavahatnuke/neo4j-node-js-docker-docker-compose-fdc1cc9cf405
+
 ## how to start
 just make it:
 - run terminal
